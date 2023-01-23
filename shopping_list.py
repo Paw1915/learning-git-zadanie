@@ -16,3 +16,5 @@ for key in shopping_list:
 print("W sumie kupuję", count, "produktów.")
 
 print("Commit 1 test")
+
+print("Commit 2 test")
